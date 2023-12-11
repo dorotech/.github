@@ -30,7 +30,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -48,7 +48,7 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://media.licdn.com/dms/image/C4E03AQGlruLpGp7xGw/profile-displayphoto-shrink_800_800/0/1595870571007?e=1701907200&v=beta&t=Eqn4WqxnjOuGPEhRUoByulRFbnDu-CB5RY2tVZHzupo" width="100"> | [João Henrique](https://github.com/Engjhony) |  Sócio-Diretor |
+| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="100"> | [João Henrique](https://github.com/Engjhony) |  Sócio-Diretor |
 </td>
 
 <td>
@@ -65,7 +65,7 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 		<a href="https://github.com/orgs/dorotech/teams/manager-team"> Management </a> Team
 	</th>
 	<th>
-		<a href="https://github.com/orgs/dorotech/teams/qa-team"> Quality Assurance </a> Team		
+		<a href="https://github.com/orgs/dorotech/teams/qa-team"> Quality Assurance</a> & <a href="https://github.com/orgs/dorotech/teams/devops-team">DevOps</a> Team		
 	</th>
 </tr>
   
@@ -73,7 +73,8 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://media.licdn.com/dms/image/D4D03AQGaaLv1pP7Y3A/profile-displayphoto-shrink_800_800/0/1682826143437?e=1701907200&v=beta&t=XfNmhJwKoyV74PMEmB7XDFbg9RuK2Ef4AHZHedhyRiM" width="100"> | [Fabricio Vernalha](https://github.com/fvernalha) |  Head of Delivery |
+| <img src="https://avatars.githubusercontent.com/u/134449800?v=4" width="100"> | [Fabricio Vernalha](https://github.com/fvernalha) |  Head of Delivery |
+| <img src="https://avatars.githubusercontent.com/u/97134130?v=4" width="100"> | [Samuel Souza](https://github.com/samuelwesleysouza) |  Project Leader |
 | <img src="https://avatars.githubusercontent.com/u/97688338?v=4" width="100"> | [Matheus Reis](https://github.com/MatFReis) |  Project Leader |
 
 </td>
@@ -82,17 +83,18 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
+| <img src="https://avatars.githubusercontent.com/u/109047138?v=4" width="100"> | [Felipe Galdino](https://github.com/felipegaldino21) |  Analista QA |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="100"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  Analista QA |
-| <img src="https://media.licdn.com/dms/image/C4D03AQHQ_pUcg6MvGw/profile-displayphoto-shrink_800_800/0/1657238270572?e=1701907200&v=beta&t=FJABlw2ySL2WuZvmGqZhL_yrGCIh2rZ8APgYQWl68Tw" width="100"> | [Felipe Galdino](https://github.com/felipegaldino21) |  Analista QA |
+| <img src="https://avatars.githubusercontent.com/u/30811155?v=4" width="100"> | [Fábio Novais](https://github.com/fabionovais) |  Analista DevOps |
 
 </td>
 
 <tr>
 	<th>
-		<a href="https://github.com/orgs/dorotech/teams/front-end-team"> Front-End </a> Team
+		<a href="https://github.com/orgs/dorotech/teams/back-end-team"> Back-End </a> Team
 	</th>
 	<th>
-		<a href="https://github.com/orgs/dorotech/teams/back-end-team"> Back-End </a> Team
+		<a href="https://github.com/orgs/dorotech/teams/front-end-team"> Front-End </a> Team
 	</th>
 </tr>
   
@@ -100,10 +102,10 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="100"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Tech Lead |
-| <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=1701907200&v=beta&t=B6KzFJdzWxCZVKRdG7bvVMgA6iwywuCiPzPKKCl9qG4" width="100"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Developer |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="100"> | [Iago Fabricio](https://github.com/iagofabricio) |  Back-End Tech Lead |
+| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="100"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Developer |
+| <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="100"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Developer |
 | <img src="https://avatars.githubusercontent.com/u/75646575?v=4" width="100"> | [Gabriel Panzenhagen](https://github.com/gabriel-panz) |  Back-End Developer |
-| <img src="https://avatars.githubusercontent.com/u/97134130?v=4" width="100"> | [Samuel Souza](https://github.com/samuelwesleysouza) |  Back-End Developer |
 
 </td>
 
@@ -113,8 +115,9 @@ Atualizado em 10/2023 - Nossa equipe é composta por profissionais de excelênci
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="100"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Tech Lead |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="100"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Developer |
-| <img src="https://avatars.githubusercontent.com/u/40281726?v=4" width="100"> | [Pedro Augusto](https://github.com/PedroAugustoPHS) | Front-End Developer |
-| <img src="https://avatars.githubusercontent.com/u/88890771?v=4" width="100"> | [Victor Brambilla](https://github.com/victorbrambilla) | Front-End Developer |
+| <img src="https://avatars.githubusercontent.com/u/88890771?v=4" width="100"> | [Victor Brambilla](https://github.com/victorbrambilla) |  Front-End Developer |
+| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="100"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Developer |
+
 </td>
 
 </table>
