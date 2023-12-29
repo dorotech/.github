@@ -62,11 +62,9 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 <table>
 <tr>
 	<th>
-		<a href="https://github.com/orgs/dorotech/teams/manager-team"> Management </a> Team
+		<a href="https://github.com/orgs/dorotech/teams/manager-team"> Management</a> & <a href="https://github.com/orgs/dorotech/teams/qa-team">Quality Assurance</a> Team		
 	</th>
-	<th>
-		<a href="https://github.com/orgs/dorotech/teams/qa-team"> Quality Assurance</a> & <a href="https://github.com/orgs/dorotech/teams/devops-team">DevOps</a> Team		
-	</th>
+	<th></th>
 </tr>
   
 <td>
@@ -75,7 +73,6 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/134449800?v=4" width="100"> | [Fabricio Vernalha](https://github.com/fvernalha) |  Head of Delivery |
 | <img src="https://avatars.githubusercontent.com/u/97134130?v=4" width="100"> | [Samuel Souza](https://github.com/samuelwesleysouza) |  Project Leader |
-| <img src="https://avatars.githubusercontent.com/u/97688338?v=4" width="100"> | [Matheus Reis](https://github.com/MatFReis) |  Project Leader |
 
 </td>
 
@@ -85,17 +82,14 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/109047138?v=4" width="100"> | [Felipe Galdino](https://github.com/felipegaldino21) |  Analista QA |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="100"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  Analista QA |
-| <img src="https://avatars.githubusercontent.com/u/30811155?v=4" width="100"> | [Fábio Novais](https://github.com/fabionovais) |  Analista DevOps |
 
 </td>
 
 <tr>
 	<th>
-		<a href="https://github.com/orgs/dorotech/teams/back-end-team"> Back-End </a> Team
+		<a href="https://github.com/orgs/dorotech/teams/back-end-team"> Back-End</a> & <a href="https://github.com/orgs/dorotech/teams/front-end-team">Front-End</a> Team		
 	</th>
-	<th>
-		<a href="https://github.com/orgs/dorotech/teams/front-end-team"> Front-End </a> Team
-	</th>
+	<th></th>	
 </tr>
   
 <td>
@@ -115,8 +109,8 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="100"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Tech Lead |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="100"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Developer |
-| <img src="https://avatars.githubusercontent.com/u/88890771?v=4" width="100"> | [Victor Brambilla](https://github.com/victorbrambilla) |  Front-End Developer |
 | <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="100"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Developer |
+| <img src="https://avatars.githubusercontent.com/u/30811155?v=4" width="100"> | [Fábio Novais](https://github.com/fabionovais) |  Analista DevOps |
 
 </td>
 
