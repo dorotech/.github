@@ -30,7 +30,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 01/2024 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -48,14 +48,14 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="100"> | [João Henrique](https://github.com/Engjhony) |  Sócio-Diretor |
+| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="100"> | [João Henrique](https://github.com/Engjhony) |  Partner |
 </td>
 
 <td>
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="100"> | [Marcos Simões](https://github.com/marcospsimoes) |  Sócio-Diretor |
+| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="100"> | [Marcos Simões](https://github.com/marcospsimoes) |  Partner |
 
 </td>
 
@@ -80,8 +80,8 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/109047138?v=4" width="100"> | [Felipe Galdino](https://github.com/felipegaldino21) |  Analista QA |
-| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="100"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  Analista QA |
+| <img src="https://avatars.githubusercontent.com/u/109047138?v=4" width="100"> | [Felipe Galdino](https://github.com/felipegaldino21) |  QA Analyst |
+| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="100"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Analyst |
 
 </td>
 
@@ -96,8 +96,8 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="100"> | [Iago Fabricio](https://github.com/iagofabricio) |  Back-End Tech Lead |
-| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="100"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Developer |
+| <img src="https://avatars.githubusercontent.com/u/7493149?v=4" width="100"> | [Adriano Victor](https://github.com/adrianovictor) |  Back-End Tech Lead |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="100"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
 | <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="100"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Developer |
 | <img src="https://avatars.githubusercontent.com/u/75646575?v=4" width="100"> | [Gabriel Panzenhagen](https://github.com/gabriel-panz) |  Back-End Developer |
 
@@ -108,9 +108,9 @@ Atualizado em 12/2023 - Nossa equipe é composta por profissionais de excelênci
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="100"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Tech Lead |
+| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="100"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Specialist |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="100"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Developer |
-| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="100"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Developer |
-| <img src="https://avatars.githubusercontent.com/u/30811155?v=4" width="100"> | [Fábio Novais](https://github.com/fabionovais) |  Analista DevOps |
+| <img src="https://avatars.githubusercontent.com/u/30811155?v=4" width="100"> | [Fábio Novais](https://github.com/fabionovais) |  DevOps Analyst |
 
 </td>
 
