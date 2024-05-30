@@ -48,14 +48,14 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="90"> | [João Henrique](https://github.com/Engjhony) |  Partner |
+| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="90"> | [João Henrique](https://github.com/Engjhony) |  Head Comercial |
 </td>
 
 <td>
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="90"> | [Marcos Simões](https://github.com/marcospsimoes) |  Partner |
+| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="90"> | [Marcos Simões](https://github.com/marcospsimoes) |  Head de Delivery |
 
 </td>
 
