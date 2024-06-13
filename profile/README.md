@@ -70,7 +70,7 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/7493149?v=4" width="90"> | [Adriano Victor](https://github.com/adrianovictor) |  Back-End Tech Lead |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="90"> | [Renato Dota](https://github.com/renatodota) |  Back-End Tech Lead |
 | <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="90"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Developer |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="90"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="90"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Analyst |
