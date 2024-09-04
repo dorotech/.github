@@ -84,7 +84,7 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="90"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Tech Lead |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="90"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Developer |
 | <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="90"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Specialist |
-| <img src="https://media.licdn.com/dms/image/C4D03AQGGtXFdNAjGbw/profile-displayphoto-shrink_800_800/0/1644532593157?e=1722470400&v=beta&t=2wi1KPY-yOD5sa_2I3PK2qLMaqgiAH9dmHRqnO6J17U" width="90"> | [Paola Lescura](https://github.com/paolalescura) |  Designer UI/UX |
+| <img src="https://avatars.githubusercontent.com/u/42151965?v=4" width="90"> | [Paola Lescura](https://github.com/paolalescura) |  Designer UI/UX |
 
 </td>
 
