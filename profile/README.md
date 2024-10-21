@@ -72,8 +72,8 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="80"> | [Renato Dota](https://github.com/renatodota) |  Back-End Engineering Lead |
-| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="80"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Engineering Lead |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="80"> | [Renato Dota](https://github.com/renatodota) |  Lead Back-End |
+| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="80"> | [Caio Meletti](https://github.com/caiomeletti) |  Lead Back-End |
 | <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="80"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="80"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
 | <img src="https://media.licdn.com/dms/image/v2/C4E03AQFKA40vVGaB7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608805288173?e=1735171200&v=beta&t=TGbCLKfKlqFL3ZAmybYlPCwnuCCQCDTTj7QtF40fkOo" width="80"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Engineer |
@@ -84,9 +84,9 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="80"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Engineering Lead |
+| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="80"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="80"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Specialist |
+| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  App Specialist |
 | <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1735171200&v=beta&t=a_gXN7W4zeB6Z6tYBakiXd_VHZ5kU7WRuFR9Y8-KGVI" width="80"> | [Paola Lescura](https://github.com/paolalescura) |  UI/UX Specialist |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="80"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
 
