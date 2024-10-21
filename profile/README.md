@@ -6,6 +6,8 @@ Oferecemos desenvolvimento completo para plataformas iOS, Android e Web, incluin
 
 Nossa missão é contribuir com nossos clientes e parceiros na construção de soluções inovadoras que agreguem valor à sociedade como um todo.
 
+Somos especialistas em soluções digitais que ajudam a superar os desafios da transformação digital para os mais diversos negócios.
+
 ## Nossa Missão
 
 "Contribuir com nossos clientes e parceiros na construção de soluções inovadoras que agreguem valor à sociedade como um todo”.
@@ -30,7 +32,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -48,14 +50,14 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="90"> | [João Henrique](https://github.com/Engjhony) |  Head Comercial |
+| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="90"> | [João Henrique](https://github.com/Engjhony) |  Head of Sales |
 </td>
 
 <td>
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="90"> | [Marcos Simões](https://github.com/marcospsimoes) |  Head de Delivery |
+| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="90"> | [Marcos Simões](https://github.com/marcospsimoes) |  Head of Delivery |
 
 </td>
 
@@ -70,10 +72,11 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="90"> | [Renato Dota](https://github.com/renatodota) |  Back-End Tech Lead |
-| <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="90"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Developer |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="90"> | [Renato Dota](https://github.com/renatodota) |  Back-End Engineering Lead |
+| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="90"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Engineering Lead |
+| <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="90"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="90"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
-| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="90"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Analyst |
+| <img src="https://media.licdn.com/dms/image/v2/C4E03AQFKA40vVGaB7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608805288173?e=1735171200&v=beta&t=TGbCLKfKlqFL3ZAmybYlPCwnuCCQCDTTj7QtF40fkOo" width="90"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Engineer |
 
 </td>
 
@@ -81,10 +84,11 @@ Atualizado em 06/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="90"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Tech Lead |
-| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="90"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Developer |
+| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="90"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Engineering Lead |
+| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="90"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="90"> | [João Dionísio](https://github.com/JBDionisio) |  Mobile App Specialist |
-| <img src="https://avatars.githubusercontent.com/u/42151965?v=4" width="90"> | [Paola Lescura](https://github.com/paolalescura) |  Designer UI/UX |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1735171200&v=beta&t=a_gXN7W4zeB6Z6tYBakiXd_VHZ5kU7WRuFR9Y8-KGVI" width="90"> | [Paola Lescura](https://github.com/paolalescura) |  UI/UX Specialist |
+| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="90"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
 
 </td>
 
