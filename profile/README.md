@@ -32,7 +32,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 12/2024 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -74,6 +74,7 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 | <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="80"> | [Caio Meletti](https://github.com/caiomeletti) |  Lead Back-End |
 | <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="80"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/9800871?v=4" width="80"> | [Eslei Elioterio](https://github.com/Elioterio89) |  Back-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/88169525?v=4" width="80"> | [Fernanda Szabadi](https://github.com/ferszabadi) |  Project Analyst |
 
 </td>
 
@@ -82,8 +83,9 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="80"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End |
-| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="80"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="80"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Lead Front-End |
 | <img src="https://avatars.githubusercontent.com/u/185385481?v=4" width="80"> | [Juan Shimada](https://github.com/juanshimada) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/111630521?v=4" width="80"> | [Ciano Meliunas](https://github.com/briotza) |  Front-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="80"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
 
 </td>
@@ -99,6 +101,7 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="80"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
+| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  App Specialist |
 | <img src="https://media.licdn.com/dms/image/v2/C4E03AQFKA40vVGaB7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608805288173?e=1735171200&v=beta&t=TGbCLKfKlqFL3ZAmybYlPCwnuCCQCDTTj7QtF40fkOo" width="80"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Specialist |
 
 </td>
@@ -107,8 +110,9 @@ Atualizado em 10/2024 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  App Specialist |
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1735171200&v=beta&t=a_gXN7W4zeB6Z6tYBakiXd_VHZ5kU7WRuFR9Y8-KGVI" width="80"> | [Paola Lescura](https://github.com/paolalescura) |  UI/UX Specialist |
+| <img src="https://media.licdn.com/dms/image/v2/D5603AQHI-sqI8rLyMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719915575978?e=1738195200&v=beta&t=MumGsJf_RaPJBMoYi3hScVLzKFzp4iiWNjL7Fie61c4" width="80"> | [Suelen Jorge](https://www.linkedin.com/in/suelenrjorge) |  Tech Recruiter |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1735171200&v=beta&t=a_gXN7W4zeB6Z6tYBakiXd_VHZ5kU7WRuFR9Y8-KGVI" width="80"> | [Paola Lescura](https://www.linkedin.com/in/paolalescura) |  UI/UX Specialist |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQGJDvo2G5rKJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657731925?e=1738195200&v=beta&t=hchljTdmKpu8n0Dz6r9XEsUcjhDlyPI1yhqTjn-yl9Y" width="80"> | [Carolina Bessa](https://www.linkedin.com/in/carolinaabessa) |  UI/UX Specialist |
 
 </td>
 
