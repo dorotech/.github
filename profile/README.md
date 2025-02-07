@@ -32,7 +32,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 01/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -100,7 +100,6 @@ Atualizado em 01/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrxYVBR3UihBPzJ3_XPmko3y3d4xzziVG4dMr33jV3C2dGkR3M3VSV89hTZwQCyQukI&usqp=CAU" width="80"> | [Iago Fabricio](https://github.com/iagofabricio) |  AI Specialist |
 | <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  App Specialist |
 | <img src="https://media.licdn.com/dms/image/v2/C4E03AQFKA40vVGaB7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608805288173?e=1740614400&v=beta&t=Oo7hLhHGt6zBw8rIVtFGDdWFTXlzrOilL3NBLlEUHwQ" width="80"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Specialist |
 
@@ -112,7 +111,6 @@ Atualizado em 01/2025 - Nossa equipe é composta por profissionais de excelênci
 | -------------- | ------------- | ------------- |
 | <img src="https://media.licdn.com/dms/image/v2/D4D03AQEX9gH7tY9TRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699968145461?e=1740614400&v=beta&t=HfhApvYmf6Z63qiNjGz1DAvrqkce-L0IaHdd6GWN7L8" width="80"> | [Silvia Takey](https://www.linkedin.com/in/silviatakey) |  Fundraising Specialist |
 | <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1740614400&v=beta&t=BDenBX_x1FLoVMGivLLE1cR5ExJVdH91D4smdIXRMlw" width="80"> | [Paola Lescura](https://www.linkedin.com/in/paolalescura) |  UI/UX Specialist |
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQGJDvo2G5rKJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657731925?e=1738195200&v=beta&t=hchljTdmKpu8n0Dz6r9XEsUcjhDlyPI1yhqTjn-yl9Y" width="80"> | [Carolina Bessa](https://www.linkedin.com/in/carolinaabessa) |  UI/UX Specialist |
 
 </td>
 
