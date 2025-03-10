@@ -32,7 +32,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 03/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -49,14 +49,14 @@ Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/83249287?v=4" width="90"> | [João Henrique](https://github.com/Engjhony) |  Head of Sales |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/joao-henrique.jpeg?raw=true" width="70"> | [João Henrique](https://github.com/Engjhony) |  Head of Sales |
 </td>
 
 <td>
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="90"> | [Marcos Simões](https://github.com/marcospsimoes) |  Head of Delivery |
+| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="70"> | [Marcos Simões](https://github.com/marcospsimoes) |  Head of Delivery |
 
 </td>
 
@@ -70,11 +70,12 @@ Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="80"> | [Renato Dota](https://github.com/renatodota) |  Lead Back-End |
-| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="80"> | [Caio Meletti](https://github.com/caiomeletti) |  Lead Back-End |
-| <img src="https://media.licdn.com/dms/image/C4D03AQEzFfqF1AmCSw/profile-displayphoto-shrink_800_800/0/1610230993863?e=2147483647&v=beta&t=A_ePkftirzufnh1PGyjA0IXcPIIViyXvXzWP5T_FHNM" width="80"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/9800871?v=4" width="80"> | [Eslei Elioterio](https://github.com/Elioterio89) |  Back-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/88169525?v=4" width="80"> | [Fernanda Szabadi](https://github.com/ferszabadi) |  Project Analyst |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Renato Dota](https://github.com/renatodota) |  Back-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="70"> | [Caio Meletti](https://github.com/caiomeletti) |  Back-End Engineer |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/eduardo-gorio.jpeg?raw=true" width="70"> | [Eduardo Gorio](https://github.com/gorio) |  Back-End Engineer |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/andre-kawatsu.jpeg?raw=true" width="70"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/9800871?v=4" width="70"> | [Eslei Elioterio](https://github.com/Elioterio89) |  Back-End Engineer |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/eduardo-rezende.jpeg?raw=true" width="70"> | [Eduardo Rezende](https://github.com/IseduardoRezende) |  Back-End Engineer |
 
 </td>
 
@@ -82,11 +83,12 @@ Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="80"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End |
-| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="80"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Lead Front-End |
-| <img src="https://avatars.githubusercontent.com/u/111630521?v=4" width="80"> | [Ciano Meliunas](https://github.com/briotza) |  Front-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/150747679?v=4" width="80"> | [Júlia Mofardini](https://github.com/juliamofardinii) |  Front-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="80"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
+| <img src="https://avatars.githubusercontent.com/u/88169525?v=4" width="70"> | [Fernanda Szabadi](https://github.com/ferszabadi) |  Project Analyst |
+| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="70"> | [Anderson Barros](https://github.com/anderson-tec12) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="70"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/111630521?v=4" width="70"> | [Ciano Meliunas](https://github.com/briotza) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/150747679?v=4" width="70"> | [Júlia Mofardini](https://github.com/juliamofardinii) |  Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="70"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
 
 </td>
 
@@ -100,8 +102,9 @@ Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="80"> | [João Dionísio](https://github.com/JBDionisio) |  App Specialist |
-| <img src="https://media.licdn.com/dms/image/v2/C4E03AQFKA40vVGaB7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608805288173?e=1740614400&v=beta&t=Oo7hLhHGt6zBw8rIVtFGDdWFTXlzrOilL3NBLlEUHwQ" width="80"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Specialist |
+| <img src="https://avatars.githubusercontent.com/u/46010192?v=4" width="70"> | [João Dionísio](https://github.com/JBDionisio) |  Flutter Specialist |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/fabio-souza.jpeg?raw=true" width="70"> | [Fabio Souza](https://github.com/impactro) |  AWS Specialist |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/fabio-takeuchi.jpeg?raw=true" width="70"> | [Fabio Takeuchi](https://github.com/fakiot) |  Firmware Specialist |
 
 </td>
 
@@ -109,8 +112,9 @@ Atualizado em 02/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQEX9gH7tY9TRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699968145461?e=1740614400&v=beta&t=HfhApvYmf6Z63qiNjGz1DAvrqkce-L0IaHdd6GWN7L8" width="80"> | [Silvia Takey](https://www.linkedin.com/in/silviatakey) |  Fundraising Specialist |
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNdOoO4Zi6cg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723657775297?e=1740614400&v=beta&t=BDenBX_x1FLoVMGivLLE1cR5ExJVdH91D4smdIXRMlw" width="80"> | [Paola Lescura](https://www.linkedin.com/in/paolalescura) |  UI/UX Specialist |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/silvia-takey.jpeg?raw=true" width="70"> | [Silvia Takey](https://www.linkedin.com/in/silviatakey) |  Fundraising Specialist |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/paola-lescura.jpeg?raw=true" width="70"> | [Paola Lescura](https://www.linkedin.com/in/paolalescura) |  UI/UX Specialist |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/carolina-bessa.jpeg?raw=true" width="70"> | [Carolina Bessa](https://www.linkedin.com/in/carolinaabessa) |  UI/UX Specialist |
 
 </td>
 
