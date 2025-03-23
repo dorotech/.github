@@ -87,8 +87,8 @@ Atualizado em 04/2025 - Nossa equipe é composta por profissionais de excelênci
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/rodrigo-paulino.jpeg?raw=true" width="70"> | [Rodrigo Oliveira](https://www.linkedin.com/in/rodrigo-paulino-de-oliveira-8b960825) |  Project Manager |
 | <img src="https://avatars.githubusercontent.com/u/88169525?v=4" width="70"> | [Fernanda Szabadi](https://github.com/ferszabadi) |  Project Analyst |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="70"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
-| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="70"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End Engineer |
-| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="70"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Lead Front-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="70"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End Eng. |
+| <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="70"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Lead Front-End Eng. |
 | <img src="https://avatars.githubusercontent.com/u/111630521?v=4" width="70"> | [Ciano Meliunas](https://github.com/briotza) |  Front-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/150747679?v=4" width="70"> | [Júlia Mofardini](https://github.com/juliamofardinii) |  Front-End Engineer |
 
