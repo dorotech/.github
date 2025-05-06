@@ -32,7 +32,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 04/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 05/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
@@ -70,11 +70,12 @@ Atualizado em 04/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/rodrigo-paulino.jpeg?raw=true" width="70"> | [Rodrigo Oliveira](https://www.linkedin.com/in/rodrigo-paulino-de-oliveira-8b960825) |  Project Manager |
 | <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Renato Dota](https://github.com/renatodota) |  Lead Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="70"> | [Caio Meletti](https://github.com/caiomeletti) |  Lead Back-End Engineer |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/andre-kawatsu.jpeg?raw=true" width="70"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/9800871?v=4" width="70"> | [Eslei Elioterio](https://github.com/Elioterio89) |  Back-End Engineer |
-| <img src="https://github.com/dorotech/.github/blob/main/pictures/lucas-collard.jpeg?raw=true" width="70"> | [Lucas Collard](https://www.linkedin.com/in/lucascollard) |  Back-End Engineer |
+| <img src="https://avatars.githubusercontent.com/u/204005878?v=4" width="70"> | [Lucas Collard](https://www.linkedin.com/in/lucascollard) |  Back-End Engineer |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/eduardo-rezende.jpeg?raw=true" width="70"> | [Eduardo Rezende](https://github.com/IseduardoRezende) |  Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/65623766?v=4" width="70"> | [Victor Augusto](https://github.com/Augustoo22) |  Back-End Engineer |
 
@@ -84,11 +85,12 @@ Atualizado em 04/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://github.com/dorotech/.github/blob/main/pictures/rodrigo-paulino.jpeg?raw=true" width="70"> | [Rodrigo Oliveira](https://www.linkedin.com/in/rodrigo-paulino-de-oliveira-8b960825) |  Project Manager |
 | <img src="https://avatars.githubusercontent.com/u/88169525?v=4" width="70"> | [Fernanda Szabadi](https://github.com/ferszabadi) |  Project Analyst |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="70"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
+| <img src="https://avatars.githubusercontent.com/u/147005226?v=4" width="70"> | [Carolina Queiroz](https://github.com/Carollqs) |  QA Engineer |
 | <img src="https://avatars.githubusercontent.com/u/12089780?v=4" width="70"> | [Anderson Barros](https://github.com/anderson-tec12) |  Lead Front-End Eng. |
 | <img src="https://avatars.githubusercontent.com/u/52277432?v=4" width="70"> | [Johnny Peixoto](https://github.com/johnnypeixoto) |  Lead Front-End Eng. |
+| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Front-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/111630521?v=4" width="70"> | [Ciano Meliunas](https://github.com/briotza) |  Front-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/150747679?v=4" width="70"> | [Júlia Mofardini](https://github.com/juliamofardinii) |  Front-End Engineer |
 
