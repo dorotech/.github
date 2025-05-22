@@ -70,7 +70,7 @@ Atualizado em 05/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://github.com/dorotech/.github/blob/main/pictures/rodrigo-paulino.jpeg?raw=true" width="70"> | [Rodrigo Oliveira](https://www.linkedin.com/in/rodrigo-paulino-de-oliveira-8b960825) |  Project Manager |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/rodrigo-oliveira.jpeg?raw=true" width="70"> | [Rodrigo Oliveira](https://www.linkedin.com/in/rodrigo-paulino-de-oliveira-8b960825) |  Project Manager |
 | <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Renato Dota](https://github.com/renatodota) |  Lead Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/49731519?v=4" width="70"> | [Caio Meletti](https://github.com/caiomeletti) |  Lead Back-End Engineer |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/andre-kawatsu.jpeg?raw=true" width="70"> | [André Kawatsu](https://github.com/andredorotech) |  Back-End Engineer |
@@ -120,10 +120,10 @@ Atualizado em 05/2025 - Nossa equipe é composta por profissionais de excelênci
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/luciana-moraes.jpeg?raw=true" width="70"> | [Luciana Moraes](https://www.linkedin.com/in/luciana-tanaka-moraes-5a594b55/) |  Financial Coordinator |
+| <img src="https://github.com/dorotech/.github/blob/main/pictures/daiane-alves.jpeg?raw=true" width="70"> | [Daiane Alves](https://www.linkedin.com/in/daiane-aparecida-alves-b9783a170/) |  HR Coordinator |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/silvia-takey.jpeg?raw=true" width="70"> | [Silvia Takey](https://www.linkedin.com/in/silviatakey) |  Fundraising Specialist |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/paola-lescura.jpeg?raw=true" width="70"> | [Paola Lescura](https://www.linkedin.com/in/paolalescura) |  UI/UX Specialist |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/carolina-bessa.jpeg?raw=true" width="70"> | [Carolina Bessa](https://www.linkedin.com/in/carolinaabessa) |  UI/UX Specialist |
-| <img src="https://avatars.githubusercontent.com/u/37817709?v=4" width="70"> | [Lays Nogueira](https://github.com/LaysNogueira) |  Angular Specialist |
 | <img src="https://github.com/dorotech/.github/blob/main/pictures/gisely-adur.jpeg?raw=true" width="70"> | [Gisely Adur](https://github.com/giselybelloadur) |  Hardware Engineer |
 
 </td>
