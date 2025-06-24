@@ -148,7 +148,7 @@ Atualizado em 06/2025 - Nossa equipe é composta por profissionais de excelênci
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://github.com/dorotech/.github/blob/main/pictures/eduardo-gorio.jpeg?raw=true" width="70"> | [Eduardo Gorio](https://github.com/gorio) |  Technical Lead |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Renato Dota](https://github.com/renatodota) |  Technical Lead |
 | <img src="https://avatars.githubusercontent.com/u/65623766?v=4" width="70"> | [Victor Augusto](https://github.com/Augustoo22) |  Back-End Engineer |
 | <img src="https://avatars.githubusercontent.com/u/87663503?v=4" width="70"> | [Vanessa Luciano](https://github.com/vanessaluciaano) |  QA Engineer |
 
