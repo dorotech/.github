@@ -1,28 +1,24 @@
-# DoroTech | Soluções em TI
+# DoroTech | Soluções em IoT
 
-A DoroTech Soluções em TI é uma Software House brasileira focada no desenvolvimento de soluções nos mais diversos segmentos e setores.
-
-Oferecemos desenvolvimento completo para plataformas iOS, Android e Web, incluindo design de UI/UX, engenharia de back-end, gerenciamento de projetos, testes, lançamento e manutenção.
-
-Nossa missão é contribuir com nossos clientes e parceiros na construção de soluções inovadoras que agreguem valor à sociedade como um todo.
+A DoroTech Soluções em IoT é uma Design House brasileira focada no desenvolvimento de soluções nos nos segmentos industrial, financeiro, agronegócio, logística e startups de alto crescimento.
 
 Somos especialistas em soluções digitais que ajudam a superar os desafios da transformação digital para os mais diversos negócios.
 
+Oferecemos desenvolvimento completo para plataformas iOS, Android e Web, incluindo design de UI/UX, engenharia de back-end, gerenciamento de projetos, testes, lançamento e manutenção.
+
 ## Nossa Missão
 
-"Contribuir com nossos clientes e parceiros na construção de soluções inovadoras que agreguem valor à sociedade como um todo”.
+Nossa missão é contribuir na criação de produtos e soluções inovadoras de software e hardware para nossos clientes e parceiros através da tecnologia da Indústria 4.0.
 
 ## Nossos Valores
 
-Na DoroTech, nossos valores fundamentais guiam nossas ações e orientam nosso trabalho diário. 
-
-Acreditamos que a adesão a esses valores é essencial para o crescimento e o sucesso de nossa empresa.
+Na DoroTech, nossos valores fundamentais guiam nossas ações e orientam nosso trabalho diário. Acreditamos que a adesão a esses valores é essencial para o crescimento e o sucesso de nossa empresa.
 
 Conheça os valores que nos definem: Excelência, Inovação, Colaboração, Integridade e Orientação ao Cliente.
 
 ## Especializações
 
-IoT, Internet of Things, Internet das Coisas, LoRA, SigFox, MQTT, Flutter, Android, Bluetooth, Wi-Fi, NFC, UWB, Java, Visual Studio, C# .NET, Angular, React.JS, Vue.JS, NoSQL, Project Management.
+IoT, Internet of Things, Internet das Coisas, LoRA, MQTT, Flutter, Android, Wi-Fi, BLE, NFC, UWB, Java, Visual Studio, C# .NET, Angular, React.JS, React Native, Vue.JS, SQL, NoSQL, Project Management.
 
 ## Contact
 
@@ -32,7 +28,7 @@ Telefone: +55 11 93618-1803
 
 # Organograma Corporativo
 
-Atualizado em 06/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
+Atualizado em 07/2025 - Nossa equipe é composta por profissionais de excelência. Conheça-os abaixo:
 
 <div align="center">
 	
